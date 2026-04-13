@@ -45,10 +45,11 @@ Este é o meu projeto principal, onde aplico conceitos avançados de backend par
 ## 📊 Estatísticas
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=heliolevi&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="45.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliolevi&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=heliolevi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="45.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliolevi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
+---
 ---
 
 ## 📫 Contato
