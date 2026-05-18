@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="COLE_AQUI_O_LINK_DO_SEU_BANNER" />
+  <img width="2048" height="512" alt="banner" src="https://github.com/user-attachments/assets/e6ff6d37-4d1e-467b-aa02-ffcd1c8c0061" />
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Hélio Levi</h1>
