@@ -24,18 +24,7 @@ Tenho experiência prática com projetos próprios, incluindo assistentes inteli
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/java-20232A?style=for-the-badge&logo=openjdk" />
-<img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/express.js-20232A?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/java-20232A?style=for-the-badge&logo=openjdk" />
-<img src="https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/aws-20232A?style=for-the-badge&logo=amazonaws" />
-<img src="https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman" />
-<img src="https://img.shields.io/badge/vercel-20232A?style=for-the-badge&logo=vercel" />
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,aws,express,git,idea,mongodb,npm,obsidian,postgres,powershell,ts&theme=light)](https://skillicons.dev)
 
 </p>
 
