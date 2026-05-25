@@ -24,7 +24,7 @@ Tenho experiência prática com projetos próprios, incluindo assistentes inteli
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,aws,express,git,idea,mongodb,npm,obsidian,postgres,bun, postman,ts&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,aws,express,git,idea,mongodb,npm,obsidian,postgres,bun,postman,linux,ts&theme=light)](https://skillicons.dev)
 
 </p>
 
