@@ -68,11 +68,7 @@ Tenho experiência prática com projetos próprios, incluindo assistentes inteli
 
 ## 🌎 Contato
 
-<p align="left">
-  <a href=["https://www.linkedin.com/in/h%C3%A9lio-levi-morias-vieira-472918347/">
-    <img src="target="_blank"](https://skillicons.dev/icons?i=linkdin&theme=dark)](https://skillicons.dev) alt="LinkedIn" />
-  </a>
-  <a href="mailto:hlevi200730@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+Clique nos ícones abaixo para se conectar comigo:
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/h%C3%A9lio-levi-morias-vieira-472918347/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hlevi200730@gmail.com)
