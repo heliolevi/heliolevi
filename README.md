@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá, eu sou o Hélio Levi</h1>
 
 <p align="center">
-  Backend Developer • Java • Node.js • APIs REST
+  <strong>Backend Developer • Java • Node.js • APIs REST</strong>
 </p>
 
 ---
@@ -20,32 +20,37 @@ Tenho experiência prática com projetos próprios, incluindo assistentes inteli
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Habilidades & Tecnologias
 
-<p align="left">
+### 🗣️ Linguagens de Programação
+[![Linguagens](https://skillicons.dev/icons?i=java,js,ts&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,aws,express,git,idea,mongodb,npm,obsidian,postgres,bun,postman,linux,ts&theme=light)](https://skillicons.dev)
+### 🗄️ Banco de Dados
+[![Bancos de Dados](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark)](https://skillicons.dev)
 
-</p>
+### 📦 Gerenciadores de Pacotes & Utilitários
+[![Gerenciadores e Utilitários](https://skillicons.dev/icons?i=npm,bun,express&theme=dark)](https://skillicons.dev)
+
+### 🔧 Ferramentas, Ambientes & Cloud
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,idea,postman,linux,aws,obsidian&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## 🧠 Conceitos e Arquitetura
 
-- SOLID
-- Clean Code
-- APIs REST
+- **SOLID** & **Clean Code**
+- **APIs REST** bem estruturadas
 - Organização em camadas
-- Integração com banco de dados
-- Estruturação backend
-- Integração com IA
+- Integração e modelagem de banco de dados
+- Escalabilidade e estruturação backend
+- Integração com inteligência artificial (IA)
+
 ---
 
 ## 📈 Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heliolevi&show_icons=true&theme=tokyonight" />
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliolevi&layout=compact&theme=tokyonight" />
 </p>
 
@@ -53,25 +58,21 @@ Tenho experiência prática com projetos próprios, incluindo assistentes inteli
 
 ## 🚀 Atualmente estudando
 
-- Arquitetura Backend
-- Node.js avançado
-- PostgreSQL
-- Escalabilidade de APIs
-- AWS
-- Aplicações com IA
+* 🏛️ Arquitetura Backend & Escalabilidade de APIs
+* 🟢 Node.js avançado
+* 🐘 PostgreSQL avançado
+* ☁️ Amazon Web Services (AWS)
+* 🤖 Aplicações integradas com IA
 
 ---
 
 ## 🌎 Contato
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/h%C3%A9lio-levi-morias-vieira-472918347/">
-  <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:hlevi200730@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" />
-</a>
-
+  <a href="https://www.linkedin.com/in/h%C3%A9lio-levi-morias-vieira-472918347/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hlevi200730@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
