@@ -29,7 +29,7 @@ Tenho experiência prática com projetos próprios, incluindo assistentes inteli
 [![Bancos de Dados](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark)](https://skillicons.dev)
 
 ### 📦 Gerenciadores de Pacotes & Utilitários
-[![Gerenciadores e Utilitários](https://skillicons.dev/icons?i=npm,bun,express&theme=dark)](https://skillicons.dev)
+[![Gerenciadores e Utilitários](https://skillicons.dev/icons?i=npm,bun,express,next,restjs,react,elysiajs&theme=dark)](https://skillicons.dev)
 
 ### 🔧 Ferramentas, Ambientes & Cloud
 [![Ferramentas](https://skillicons.dev/icons?i=git,github,idea,postman,linux,aws,obsidian&theme=dark)](https://skillicons.dev)
